@@ -1,0 +1,12 @@
+.product-list{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.product-card{
+    border: 2px solid red;
+    width: 420px;
+    min-height: 550px;
+}
